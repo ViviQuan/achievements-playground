@@ -2,6 +2,6 @@
 
 Playground repo used to earn GitHub achievements.
 
-- [ ] Quickdraw: PR merged within an hour of opening
+- [x] Quickdraw: PR merged within an hour of opening
 - [ ] Pull Shark: two merged pull requests
 - [ ] Pair Extraordinaire: co-authored merged pull request
